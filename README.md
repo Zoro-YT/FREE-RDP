@@ -1,5 +1,3 @@
 # FREE-RDP
 ## Steps
-1. Goto https://colab.research.google.com/ 
-2. Copy The Text On This Link https://pastebin.com/LiBLAHHp Password Is FREE
-3. Click The Run And Follow The Instructions!
+1. Goto this link https://colab.research.google.com/drive/1YECAO01B4MWMYl62wWAr9tXQ1QiWLaEX?usp=sharing and click the start button and follow the steps sayed by the cell
